@@ -1,4 +1,4 @@
-02: The Mobile Web
+Lab: The Mobile Web
 ===
 
 ## Lab Instructions
